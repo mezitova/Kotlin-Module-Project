@@ -1,5 +1,5 @@
 import java.util.Scanner
-
+//
 // Управляет созданием, отображением и обработкой меню
 class MenuManager(private val menuTitle: String) {
     private val inputScanner = Scanner(System.`in`)

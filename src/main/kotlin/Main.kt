@@ -1,5 +1,5 @@
 import kotlin.system.exitProcess
-
+//
 // Представляет архив с заметками
 class Archive(val archiveName: String) {
     val notesList = mutableListOf<Note>()
